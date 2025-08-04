@@ -9,7 +9,7 @@ Um aplicativo Flutter para criação e gerenciamento de lembretes.
 - Dart SDK
 - Android Studio ou VS Code com extensões Flutter
 - Emulador Android ou dispositivo físico
-''
+  
 ### Passos para Execução
 1. Clone o repositório:
    ```bash
