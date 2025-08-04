@@ -1,0 +1,144 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+.metadata
+.fvm/
+.vscode/launch.json
+.vscode/settings.json
+
+# Pubspec lock file
+pubspec.lock
+
+# Flutter generated files
+**/linux/flutter/generated_plugin_registrant.*
+**/windows/flutter/generated_plugin_registrant.*
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/linux/flutter/generated_plugins.cmake
+**/windows/flutter/generated_plugins.cmake
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# Android
+android/.gradle/
+android/.kotlin/
+android/captures/
+android/.idea/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+android/gradle.properties.bak
+# Specific android files
+android/gradlew
+android/gradlew.bat
+android/gradle/wrapper/gradle-wrapper.jar
+android/app/src/main/java/io/
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/release/
+*.jks
+*.keystore
+*.iml
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+*.mobileprovision
+*.p8
+*.p12
+*.cer
+*.dSYM.zip
+*.ipa
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+
+# Web
+web/.dart_tool/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# IDEs and Editor Configurations
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.metadata
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# Environment and configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test coverage
+coverage/
+lcov.info
+test/.test_coverage.dart
+
+# Build and distribution files
+*.apk
+*.aab
+*.ipa
+*.dmg
+*.app
+*.exe
+*.msi
+*.deb
+*.rpm
+
+# Análise e performance
+dart_code_metrics/
+analysis_options.yaml.backup
