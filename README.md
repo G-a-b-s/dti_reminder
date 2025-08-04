@@ -13,7 +13,7 @@ Um aplicativo Flutter para criação e gerenciamento de lembretes.
 ### Passos para Execução
 1. Clone o repositório:
    ```bash
-   git clone <https://github.com/G-a-b-s/DTI_test.git>
+   git clone https://github.com/G-a-b-s/DTI_test.git
    cd DTI_test
    ```
 
