@@ -1,4 +1,4 @@
-import 'package:dti_test/screens/reminder_screen.dart';
+import 'package:dti_reminder/screens/reminder_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
