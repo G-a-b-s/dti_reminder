@@ -17,12 +17,27 @@ Um aplicativo Flutter para criação e gerenciamento de lembretes.
    cd dti_reminder
    ```
 
-2. Instale as dependências:
+2. Configure as plataformas do Flutter (escolha as que você vai usar):
+   ```bash
+   # Para todas as plataformas
+   flutter create --platforms=android,ios,web,windows 
+   
+   # Para mobile + Web
+   flutter create --platforms=android,ios,web
+
+   # Ou apenas para mobile
+   flutter create --platforms=android,ios 
+   
+   # Ou apenas para uma plataforma específica
+   flutter create --platforms=android 
+   ```
+
+3. Instale as dependências:
    ```bash
    flutter pub get
    ```
 
-3. Execute o aplicativo:
+4. Execute o aplicativo:
    ```bash
    flutter run
    ```
